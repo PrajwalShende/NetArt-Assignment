@@ -8,4 +8,4 @@ Vite + React
 
 # Try it out
 
-https://netart-assignment1818.netlify.app/
+https://netart-assignment18125.netlify.app/
